@@ -32,7 +32,7 @@ export default {
     delete: 'Excluir',
     zipCode: 'CEP',
     newAddress: 'Novo endereço',
-    developedBy: 'Desenvolvido por Rafael Trog',
+    developedBy: 'Desenvolvido por ',
     noResults: "Nenhum resultado",
     noRegisters: "Nenhum endereço cadastrado"
   }
