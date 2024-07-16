@@ -35,4 +35,4 @@ npm run serve
 
 
 ***
-#### Desenvolvidor por [Rafael Trog](https://rafaeltrog.com) 😎
+#### Desenvolvido por [Rafael Trog](https://rafaeltrog.com) 😎
